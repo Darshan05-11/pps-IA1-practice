@@ -1,4 +1,4 @@
-#include<stdio.h>
+r#include<stdio.h>
 int input()
 {
   int a;
