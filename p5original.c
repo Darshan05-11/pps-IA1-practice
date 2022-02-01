@@ -27,10 +27,10 @@ void output(float sqrt_result)
 }
 int main()
 {
-  int n;
-  float a;
+  int a;
+  float b;
   a=input();
-  int b=my_sqrt(a);
+  b=my_sqrt(a);
   output(b);
   return 0;
 }
